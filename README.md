@@ -47,7 +47,7 @@ The following methods were simulated:
 
 ## Project Structure
 - `aircraft_boarding_simulation.ipynb` - Simulation and analysis code  
-- PDF report - Results, graphs, and conclusions  
+- Aircraft Boarding Simulation Analysis.pdf - Results, graphs, and conclusions   
 
 ## Conclusion
 This project demonstrates how simulation and statistical analysis can be used to evaluate real world processes and optimize decision making.
